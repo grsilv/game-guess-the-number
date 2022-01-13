@@ -1,0 +1,15 @@
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\guess-the-number.exe
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\guess-the-number.deps.json
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\guess-the-number.runtimeconfig.json
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\guess-the-number.dll
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\ref\guess-the-number.dll
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\bin\Debug\net6.0\guess-the-number.pdb
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.csproj.AssemblyReference.cache
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.AssemblyInfoInputs.cache
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.AssemblyInfo.cs
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.csproj.CoreCompileInputs.cache
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.dll
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\ref\guess-the-number.dll
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.pdb
+C:\Users\grsil\Desktop\programaçao\C#\guess-the-number\obj\Debug\net6.0\guess-the-number.genruntimeconfig.cache
